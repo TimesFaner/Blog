@@ -1,25 +1,25 @@
 #----------------------------网页信息----------------------------------
 # site name
-prefixName: cungudafa
-siteName: 姑
+prefixName: TimesFaner
+siteName: timesfaner的个人博客
 # favicon and site master avatar
-favicon: /images/favicon.ico
-avatar: /img/custom/cungudafa.jpg
+favicon: /images/icon.jpg
+avatar: /images/icon.jpg
 url: https://timesfaner.top/
-description: 莫三天打鱼两天晒网
+description: 奇迹是逻辑碰撞的火花
 
 # 左侧网站名称
 logo:
-  sakuraso: 姑
+  sakuraso: TimesFaner
   no: の
-  shironeko: 小屋
+  shironeko: Blog
 
 siteBuildingTime: 2020-02-11 17:20:00 # your site build time or founded date(2020-05-20 17:20:00)
 
 #ICP备案信息尾部显示
 icp:
-  enable: true #选择性设置
-  url: http://www.beian.miit.gov.cn/state/outPortal/loginPortal.action # 备案链接
+  enable: false #选择性设置
+  url: http://www.beian.miit.gov.cn/state/outPortal/loginPortal.action # 备案链接 todo
   text:  # 备案信息
 
 cdn: 
@@ -81,14 +81,14 @@ msocial:
 bgclass: filter-dot # 背景图片样式 空 原图效果 filter-dim 阴影 filter-grid 横条 filter-dot 点点
 # 轮播图、如果文章没有设置photos会在这里随机取图
 bg:
-  - images/linkcard.png
-  - images/cover/(1).jpg.webp
-  - images/cover/(2).jpg.webp
-  - images/cover/(3).jpg.webp
-  - images/cover/(4).jpg.webp
-  - images/cover/(5).jpg.webp
-  - images/cover/(6).jpg.webp
-  - https://cdn.jsdelivr.net/gh/cungudafa/cdn@2.0.9/img/cover/(7).jpg.webp
+  - images/cover/1.png
+  - images/cover/2.jpg
+  - images/cover/3.png
+  - images/cover/4.png
+  - images/cover/5.png
+  - images/cover/6.jpg
+  - images/cover/7.png
+  - images/cover/8.png
 
 # 背景音乐
 left_side_bar:
@@ -97,7 +97,7 @@ left_side_bar:
 bg_music: https://cdn.jsdelivr.net/gh/cungudafa/cdn@latest/music/lovingstrangers.mp3
 
 # 首页提示语
-notice: 此处可爱贩卖机 24小时正常营业
+notice: 欢迎来到 timesfaner 的个人博客,开发与交流
 # 首页提示音
 myvoice: https://cdn.jsdelivr.net/gh/cungudafa/cdn@latest/music/lovingstrangers.mp3
 # 缓加载动画
